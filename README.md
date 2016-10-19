@@ -1,4 +1,4 @@
-# CIS 210, Fall 2016
+# CIS 210
 Introduction to Computer Science
 
 **Week 1** <br>
