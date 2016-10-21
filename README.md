@@ -14,6 +14,7 @@ Introduction to Computer Science
 *Draw a postal barcode* (draw_barcode.py) More practice turtle graphics. Nested for loops, lists of lists.
  
 **Week 4** <br>
+*Word Jumbles (Anagrams)* (jumbler.py) A common programming task is to scan a file, picking out elements that meet some criterion. This assignment introduces the file-scan idiom in Python, along with some basic manipulation of strings (text).
  
 **Week 5** <br>
  
