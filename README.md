@@ -1,5 +1,6 @@
 # CIS 210
 Introduction to Computer Science
+https://classes.cs.uoregon.edu/16F/cis210/index.php
 
 **Week 1** <br>
 *Memorable PINs* (alphacode.py) Practice sequential programming. Understand numeric representation and modular arithmetic. <br>
