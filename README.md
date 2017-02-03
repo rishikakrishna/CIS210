@@ -1,5 +1,5 @@
 # CIS 210
-Introduction to Computer Science
+Introduction to Computer Science <br>
 https://classes.cs.uoregon.edu/16F/cis210/index.php
 
 **Week 1** <br>
