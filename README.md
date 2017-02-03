@@ -17,13 +17,14 @@ Introduction to Computer Science
 *Word Jumbles (Anagrams)* (jumbler.py) A common programming task is to scan a file, picking out elements that meet some criterion. This assignment introduces the file-scan idiom in Python, along with some basic manipulation of strings (text).
  
 **Week 5** <br>
+*Recursive string reversal* (string_reverse.py) Recursive implementation of string_reverse(input string) <br>
+*Determine set membership* (is_member.py) Recursive implementation of is_member() on a set represented by a sorted list of integers.
  
 **Week 6** <br>
+*Routing depth-first search* (routes.py) Graph search to find shortest path between two cities..
  
 **Week 7** <br>
+*Analyzing Earthquake Data* (eqanalysis.py) Analyze and plot earthquake data.
  
 **Week 8** <br>
- 
-**Week 9** <br>
- 
-**Week 10** <br>
+*Sudoku Helper* (sdktactics.py) Tactics and checks for Sudoku.
